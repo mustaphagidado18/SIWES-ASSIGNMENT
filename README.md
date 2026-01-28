@@ -1,7 +1,8 @@
                              ASSIGNMENT
             SECURITY MONITORING WITH SPLUNK
 NAME:MUSTAPHA ADAMU GIDADO
-
+NAME:UMAR KABIR ABUBAKAR
+NORTHWEST UNIVERSITY,KANO
 1.	List out the IAM users that accessed an AWS service (successfully or unsuccessfully) in Frothly's AWS environment?
                                                              ANSWER
   	The index=botsv3 earliest=0 we found that 2 result occur and we found 286 result for the IAM user
